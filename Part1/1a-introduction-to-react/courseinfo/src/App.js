@@ -23,7 +23,7 @@ const Header = (props) => {
 }
 
 
-/* Content 1.1
+/* Step 1
 const Content = (props) => {
   return (
     <>
@@ -35,6 +35,7 @@ const Content = (props) => {
 }
 */
 
+/* Step 2 */
 const Content = (props) => {
   return(
     <div>
